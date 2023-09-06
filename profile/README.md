@@ -1,5 +1,5 @@
 <div>
-    <img src="../images/banner.png">
+    <img src="/images/banner.png">
 </div>
 
 ## Get Involved
