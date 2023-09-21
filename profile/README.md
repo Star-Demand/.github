@@ -6,7 +6,7 @@
 
 
 <div style="text-align: justify">
-StarDemand is a leading provider of AI-powered on-demand printing services. We are dedicated to revolutionizing the printing industry with cutting-edge technology and exceptional customer service. Our mission is to provide high-quality, customized printing solutions that meet the demands of businesses and individuals alike.
+StarDemand is a pioneering force in AI-driven solutions, dedicated to transforming daily life by harnessing the power of innovation. We are committed to delivering personalized solutions that seamlessly enhance efficiency and convenience, setting the stage for a smarter, more connected world. Our relentless pursuit of excellence and customer-focused approach ensures that we remain at the forefront of AI technology, continually pushing boundaries to shape a better future.
 </div><br>
 
 - **Contribute**: Find an open issue or suggest new features in our projects.
@@ -15,6 +15,6 @@ StarDemand is a leading provider of AI-powered on-demand printing services. We a
 
 ## Contribute
 <div style="text-align: justify">
-We look forward to connecting with you and advancing the future of printing together!
+We look forward to connecting with you and advancing the future of AI together!
 </div>
 
